@@ -8,7 +8,7 @@ const Leaders = () => {
     <div>
       <PageHeader
         title="Our Leaders"
-        subtitle="Meet the dedicated individuals leading our movement for change."
+        subtitle="Meet the dedicated individuals leading our movement for change of India."
       />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
